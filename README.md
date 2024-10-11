@@ -1,3 +1,10 @@
+# Requirements
+
+- NodeJS
+    - every pnpm command can be used with npm too
+    - `pnpm abc` -> `npm run abc`
+- Rust ([More here](https://tauri.app/start/prerequisites/))
+
 # Setup
 
 ## Pre-Steps for every Environment
