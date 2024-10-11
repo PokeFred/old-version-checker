@@ -1,6 +1,6 @@
 # Setup
 
-## Base Setup
+## Pre-Steps for every Environment
 
 ```bash
 $ git clone https://github.com/PokeFred/version-checker.git
@@ -8,13 +8,13 @@ $ cd version-checker
 $ pnpm install
 ```
 
-## Post Steps for an Development Environment
+## Post-Steps for an Development Environment
 
 ```bash
 $ pnpm dev
 ```
 
-## Post Steps for an Production Environment
+## Post-Steps for an Production Environment
 
 ```bash
 // Windows
